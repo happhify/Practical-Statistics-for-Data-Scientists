@@ -10,6 +10,7 @@ Referensi: Peter Bruce, Andrew Bruce, Peter Gedeck. *Practical Statistics for Da
 |---|---|
 | Nama | Hadi Nugroho |
 | NIM | 101032330235 |
+| Kelas | TK4702 |
 | Program studi | S1 Teknik Komputer |
 | Universitas | Telkom University |
 | Dosen | DR. Risman Adnan Mattotorang |
