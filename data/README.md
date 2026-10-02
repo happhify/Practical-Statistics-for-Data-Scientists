@@ -1,13 +1,8 @@
 # Dataset Bab 1–4
 
-Seluruh file berasal dari folder `data/` [repository pendamping edisi kedua](https://github.com/gedeck/practical-statistics-for-data-scientists/tree/8a6d3bb6468e979c861d4b37215e1413702dfdfa/data). `manifest.json` mencatat commit, ukuran byte, dan SHA-256 dari 14 file. Seluruh CSV disertakan dalam repository ini sehingga notebook dapat langsung dijalankan setelah clone. Skrip di bawah dipakai untuk memvalidasi checksum atau mengunduh ulang file yang hilang.
+Seluruh file berasal dari folder `data/` [repository pendamping edisi kedua](https://github.com/gedeck/practical-statistics-for-data-scientists/tree/8a6d3bb6468e979c861d4b37215e1413702dfdfa/data). `manifest.json` mencatat commit, ukuran byte, dan SHA-256 dari 14 file. Seluruh CSV disertakan dalam repository ini sehingga notebook dapat langsung dijalankan setelah clone.
 
-```sh
-python scripts/download_data.py
-python scripts/download_data.py --check
-```
-
-Jalankan dari root proyek sesudah mengaktifkan `.venv`. Unduhan memakai pustaka standar Python. File yang sudah valid dilewati. File lokal dengan checksum berbeda tidak ditimpa. Notebook tidak mengunduh diam-diam dan dapat dijalankan tanpa jaringan setelah dataset tersedia.
+Notebook membaca file langsung dari folder ini dan tidak mengunduh apa pun, sehingga dapat dijalankan tanpa jaringan.
 
 | Dataset | Bab | Isi dan ukuran |
 |---|---|---|
