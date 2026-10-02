@@ -1,0 +1,50 @@
+{
+  "checked_utc": "2026-10-02T05:36:33.513784+00:00",
+  "notebooks": {
+    "Chapter_01.ipynb": {
+      "code_cells": 17,
+      "mapped_sections": 28,
+      "figures": 9,
+      "errors": 0,
+      "sha256": "d3df0e213bf20128e6e82d557597c3b35323852a1ba3ad4ad35789b4d91e4948"
+    },
+    "Chapter_02.ipynb": {
+      "code_cells": 18,
+      "mapped_sections": 26,
+      "figures": 10,
+      "errors": 0,
+      "sha256": "625de04c7f7653df5d95b51da84d4801646033da286433acc3d93a06f3497dd6"
+    },
+    "Chapter_03.ipynb": {
+      "code_cells": 17,
+      "mapped_sections": 32,
+      "figures": 5,
+      "errors": 0,
+      "sha256": "adf3f1487d62a064af080af01eb0b6b9800d3ed69c8950186bb33d1b2923140d"
+    },
+    "Chapter_04.ipynb": {
+      "code_cells": 27,
+      "mapped_sections": 33,
+      "figures": 10,
+      "errors": 0,
+      "sha256": "7f63e5e8f44e06d005be2d7fd0894e9c2a35b4086f28d54de956c569c8a7cf8e"
+    }
+  },
+  "datasets_verified": 14,
+  "dependencies": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scipy": "1.16.3",
+    "matplotlib": "3.11.2",
+    "seaborn": "0.13.2",
+    "statsmodels": "0.15.0",
+    "scikit-learn": "1.9.1",
+    "wquantiles": "0.6",
+    "pygam": "0.12.0",
+    "patsy": "1.0.3",
+    "ipykernel": "7.3.0",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0"
+  },
+  "status": "passed"
+}
