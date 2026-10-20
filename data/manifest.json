@@ -58,6 +58,22 @@
     "house_sales.csv": {
       "sha256": "25f9db700c12fa28370ae5ed903f021865db02e39803ec21cce24367e59d45c9",
       "bytes": 3545162
+    },
+    "loan200.csv": {
+      "sha256": "20fa74aa858a19893d09f70e39d7fc1020dacfabead29a561136b07b554ba320",
+      "bytes": 4454
+    },
+    "loan3000.csv": {
+      "sha256": "64dcaf1c93d611a45276966bf9601201f47919136a7ecf375a60e74025a532f2",
+      "bytes": 162167
+    },
+    "loan_data.csv.gz": {
+      "sha256": "de10007e08c98cbe563c88711fde73ccdc882474544a7e5c3d2d22a2cda6d7e1",
+      "bytes": 1268457
+    },
+    "full_train_set.csv.gz": {
+      "sha256": "8e28117e1933b3ccda73b7415ceb438c951ff3cc7fd1c83a621e160d9c00a7eb",
+      "bytes": 2968459
     }
   }
 }
